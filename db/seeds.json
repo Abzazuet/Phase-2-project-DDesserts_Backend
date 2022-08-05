@@ -2,7 +2,7 @@
   "desserts": [
     {
       "id": 1,
-      "name": "Chocolate Keto Bomb",
+      "name": "Chocolate Bomb",
       "image": "image",
       "macronutrients": {
         "Carbohydrates": 200,
